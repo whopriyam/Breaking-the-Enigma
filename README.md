@@ -1,5 +1,6 @@
 # Breaking-the-Enigma
 A simple code cracking game using elementary Java.
+
 The Computer will generate a Random 4-digit number and you have guess what it
 is based on certain hints given by the Computer. If the digit input by the user is
 not there in the number, output will show ‘X’ in that position in the number. If the
